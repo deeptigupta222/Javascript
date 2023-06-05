@@ -17,6 +17,6 @@
 // console.log("name",name)
 
 
-let a=23;
+// let a=23;
 
-console.log('the value of a is ',a);
+// console.log('the value of a is ',a);
